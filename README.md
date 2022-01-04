@@ -23,6 +23,7 @@ Hi, I am Meenakshi Pandey,I have sound knowledge of Java, JavaScript, Python, R 
 
 ## &#x1f4c8; GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeymeenakshi052&show_icons=true&locale=en&layout=compact" alt="pandeymeenakshi052" /></p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pandeymeenakshi052&show_icons=true&theme=gotham" alt="pandeymeenakshi052" />
 
 
