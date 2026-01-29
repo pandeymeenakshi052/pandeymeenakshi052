@@ -2,7 +2,11 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "A little more about me..."  
 <br />
-Hi, I am Sri Meenakshi Pandey,I have sound knowledge of Java, JavaScript, Python, R Programming, Web Development and Android Development with keen interest in data science, AI and ML. Strong engineering professional with a degree in Bachelor of Engineering (BE) in COMPUTER SCIENCE Engineering from SATHYABAMA INSTITUTE OF SCIENCE & TECHNOLOGY - CHENNAI.
+I am a Software Engineer at Accenture with experience in Java, Python, Flask, JavaScript, Automation and EDI-based projects. Along with strong development skills, I have a deep interest in the data field, including Machine Learning and Artificial Intelligence.
+
+With a solid academic foundation (B.E. in Computer Science, 9.15 CGPA) and certifications in machine learning, app as well as web development, and UX design, I combine technical expertise with problem-solving ability to deliver efficient, scalable solutions.
+
+I am passionate about exploring opportunities in data-driven technologies and applying AI/ML techniques to create innovative solutions that bring value to businesses.
 <br />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <h3 align="left">Connect with me:</h3>
